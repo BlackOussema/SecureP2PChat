@@ -42,3 +42,9 @@ Start chatting securely.
 If the application doesn’t run due to missing libraries, make sure your virtual environment is activated and the dependencies are installed as described above.
 
 Remember to forward port 12345 on your router to allow incoming connections to the server.
+
+Support:
+If you encounter any issues or have questions, feel free to open an issue in this repository.
+
+By Ghariani Oussema TN "Instagram: oussema_spongebob"
+
