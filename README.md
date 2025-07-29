@@ -1,7 +1,7 @@
 # SecureP2PChat
 
 SecureP2PChat is a peer-to-peer encrypted chat application with a graphical user interface, designed to provide secure and private communication over the internet.
-![Screenshot](screenshot.png)
+
 
 #Features
 
